@@ -1,4 +1,4 @@
-line 1 init
-line 2 init
-line 3
-line 4
+line 1
+line 2
+line 3 mod
+line 4 mod
